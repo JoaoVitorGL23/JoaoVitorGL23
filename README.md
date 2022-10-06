@@ -1,6 +1,6 @@
 Olá eu sou o Joao Vitor Gonçalves de Lima
 ##
-📚 - Estudando JavaScript
+📚 - Estudando JavaScript/Jquery
 
 💻 - HTML/CSS concluido
 
